@@ -8,3 +8,5 @@ forth line
 8
 9 different change for git_1 branch
 10 different change for git_1 branch
+9 changed
+10 changed
