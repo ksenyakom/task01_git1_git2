@@ -2,8 +2,8 @@ first line
 second line
 3 modified line
 4 modified line
-5
-6
+5 changed from folder1
+6 changed from folder1
 7
 8 another line modified
 9 another line modified
